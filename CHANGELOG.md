@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/viniciusteixeiradias/medium-semantic-release-github-actions/compare/v0.1.0...v1.0.0) (2024-02-28)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([b1341e7](https://github.com/viniciusteixeiradias/medium-semantic-release-github-actions/commit/b1341e760d2a0f7de958c0edf7da25f09489f3eb))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed. The default graphite width of 10mm is always used for performance reasons.
+
 # [0.1.0](https://github.com/viniciusteixeiradias/medium-semantic-release-github-actions/compare/v0.0.1...v0.1.0) (2024-02-28)
 
 
