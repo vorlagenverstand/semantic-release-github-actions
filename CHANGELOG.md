@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/vorlagenverstand/semantic-release-github-actions/compare/v0.1.0...v0.1.1) (2024-10-04)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option BREAKING CHANGE: The graphiteWidth option has been removed. ([3e38841](https://github.com/vorlagenverstand/semantic-release-github-actions/commit/3e38841bd5d27163b09685060a5c5f978e2e33f4))
+
 # [0.1.0](https://github.com/vorlagenverstand/semantic-release-github-actions/compare/v0.0.1...v0.1.0) (2024-10-04)
 
 
