@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/vorlagenverstand/semantic-release-github-actions/compare/v0.0.1...v0.1.0) (2024-10-04)
+
+
+### Features
+
+* **pencil:** add graphiteWidth option ([af86240](https://github.com/vorlagenverstand/semantic-release-github-actions/commit/af862406ff78b4445fc49d4b6d0b567b6f7a6bef))
+
 ## [0.0.1](https://github.com/vorlagenverstand/semantic-release-github-actions/compare/v0.0.0...v0.0.1) (2024-10-04)
 
 
