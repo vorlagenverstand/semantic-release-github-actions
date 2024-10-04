@@ -1,3 +1,11 @@
+## [0.0.1](https://github.com/vorlagenverstand/semantic-release-github-actions/compare/v0.0.0...v0.0.1) (2024-10-04)
+
+
+### Bug Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([9cc9997](https://github.com/vorlagenverstand/semantic-release-github-actions/commit/9cc9997b99cca06eef143c9b2cabceb318774dff))
+* **pencil:** stop graphite breaking when too much pressure applied ([85ffa61](https://github.com/vorlagenverstand/semantic-release-github-actions/commit/85ffa61bb79acacbee75c074a35116c28f6584b3))
+
 # [1.0.0](https://github.com/viniciusteixeiradias/medium-semantic-release-github-actions/compare/v0.1.0...v1.0.0) (2024-02-28)
 
 
